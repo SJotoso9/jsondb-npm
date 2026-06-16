@@ -44,7 +44,7 @@ And make any changes you want
 
 after go to the official repository on github and do a pull request
 
-**RULES:** NEVER MAKE ANY CHANGES ON THE **MAIN** BRANCH OR DO A PULL REQUEST ON THIS BRANCH
+**RULES:** NEVER MAKE ANY CHANGES ON THE **MAIN** BRANCH OR DO A PULL REQUEST ON THE **MAIN** BRANCH
 DON'T TROLL
 DON'T DO A **VIRUS**
 
