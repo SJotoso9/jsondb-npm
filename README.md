@@ -14,9 +14,10 @@ import * as jsondb from "@sjotoso9/jsondb"
 
 after on the start of your project place
 
-const db = new jsondb
+const db = new jsondb(NAME OF YOUR JSON FILE FOLLOWED BY A DOT AND SLASH)
+Example: './db.json'
 
-this now will create a db.json file inside your project's folder
+this now will create the db file inside your project's folder
 
 Use db.put(data) to place data inside
 
