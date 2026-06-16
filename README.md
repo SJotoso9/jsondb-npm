@@ -1,4 +1,4 @@
-# JsonDB
+# [JsonDB](https://www.npmjs.com/package/@sjotoso9/jsondb)
 
 Create database with simple JSON files!
 
@@ -36,6 +36,17 @@ METHODS: put(), edit(), load(), delete()
 # Q: By what this was made?
 
 A: this was made for people that doesn't want to setup more advanced databases or for people that is a beginner on javascript
+
+# Contributing to the project
+
+Fork the entire repository on github, go to the branch **develop**
+And make any changes you want
+
+after go to the official repository on github and do a pull request
+
+**RULES:** NEVER MAKE ANY CHANGES ON THE **MAIN** BRANCH OR DO A PULL REQUEST ON THIS BRANCH
+DON'T TROLL
+DON'T DO A **VIRUS**
 
 # Made by:
 
