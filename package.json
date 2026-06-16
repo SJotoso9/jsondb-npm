@@ -1,16 +1,22 @@
 {
   "name": "@sjotoso9/jsondb",
   "version": "1.0.3",
-  "description": "Make simple JSON databases using just a class",
+  "description": "Create simple Databases with just an object",
   "main": "module.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Josué Ronaldo",
-  "license": "ISC",
-  "type": "commonjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SJotoso9/jsondb-npm.git"
-  }
+  },
+  "author": "Josué Ronaldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SJotoso9/jsondb-npm/issues"
+  },
+  "homepage": "https://github.com/SJotoso9/jsondb-npm#readme"
 }
