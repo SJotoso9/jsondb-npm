@@ -1,4 +1,4 @@
-# JsonDB
+# [JsonDB](https://www.npmjs.com/package/@sjotoso9/jsondb)
 
 Create database with simple JSON files!
 
