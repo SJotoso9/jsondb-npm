@@ -1,6 +1,6 @@
 {
   "name": "@sjotoso9/jsondb",
-  "version": "1.0.3",
+  "version": "1.0.3-beta2",
   "description": "Create simple Databases with just an object",
   "main": "module.js",
   "directories": {

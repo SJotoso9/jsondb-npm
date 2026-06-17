@@ -1,3 +1,5 @@
 node_modules
 index.cjs
 package-lock.json
+.npmignore
+db.json

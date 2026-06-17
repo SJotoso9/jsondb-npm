@@ -1,5 +1,7 @@
 # [JsonDB](https://www.npmjs.com/package/@sjotoso9/jsondb)
 
+## v1.0.3-beta2
+
 Create database with simple JSON files!
 
 Use import to use in your project
